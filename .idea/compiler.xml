@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demiroren-core" />
+        <module name="demiroren-web-test" />
+        <module name="demiroren-api-test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demiroren-api-test" target="1.5" />
+      <module name="demiroren-core" target="8" />
+      <module name="demiroren-web-test" target="6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
