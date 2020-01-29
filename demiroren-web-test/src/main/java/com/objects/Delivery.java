@@ -1,6 +1,6 @@
 package com.objects;
 
-public class DeliveryContext
+public class Delivery
 {
     private String deliveryPoint;
     private String firstName;

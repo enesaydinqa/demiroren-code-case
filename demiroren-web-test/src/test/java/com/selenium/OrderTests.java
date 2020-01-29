@@ -5,8 +5,8 @@ import com.context.Constants;
 import com.context.UrlFactory;
 import com.enums.BillingType;
 import com.junit.annotations.WebTest;
-import com.objects.BillingInformationContext;
-import com.objects.DeliveryContext;
+import com.objects.BillingInformation;
+import com.objects.Delivery;
 import com.pages.HomePage;
 import com.pages.login.LoginPage;
 import com.pages.product.ChartPage;
@@ -73,28 +73,28 @@ public class OrderTests extends AbstractSeleniumTest
                 .enterAddBillingAddress(createBillingContext());
     }
 
-    private DeliveryContext createDeliveryContext()
+    private Delivery createDeliveryContext()
     {
-        DeliveryContext deliveryContext = new DeliveryContext();
-        deliveryContext.setDeliveryPoint(Constants.DeliveryPoints.ISTANBUL_KANYON_EASY_POINT);
-        deliveryContext.setFirstName(RandomStringUtils.randomAlphabetic(6));
-        deliveryContext.setLastName(RandomStringUtils.randomAlphabetic(4));
-        deliveryContext.setPhone("552" + RandomStringUtils.randomNumeric(7));
+        Delivery delivery = new Delivery();
+        delivery.setDeliveryPoint(Constants.DeliveryPoints.ISTANBUL_KANYON_EASY_POINT);
+        delivery.setFirstName(RandomStringUtils.randomAlphabetic(6));
+        delivery.setLastName(RandomStringUtils.randomAlphabetic(4));
+        delivery.setPhone("552" + RandomStringUtils.randomNumeric(7));
 
-        return deliveryContext;
+        return delivery;
     }
 
-    private BillingInformationContext createBillingContext()
+    private BillingInformation createBillingContext()
     {
-        BillingInformationContext billingInformationContext = new BillingInformationContext();
-        billingInformationContext.setFirstName(RandomStringUtils.randomAlphabetic(6));
-        billingInformationContext.setLastName(RandomStringUtils.randomAlphabetic(4));
-        billingInformationContext.setCountry("Türkiye");
-        billingInformationContext.setCity("İstanbul");
-        billingInformationContext.setAddress(RandomStringUtils.randomAlphanumeric(30));
-        billingInformationContext.setPhone("552" + RandomStringUtils.randomNumeric(7));
-        billingInformationContext.setBillingType(BillingType.INDIVIDUAL);
+        BillingInformation billingInformation = new BillingInformation();
+        billingInformation.setFirstName(RandomStringUtils.randomAlphabetic(6));
+        billingInformation.setLastName(RandomStringUtils.randomAlphabetic(4));
+        billingInformation.setCountry("Türkiye");
+        billingInformation.setCity("İstanbul");
+        billingInformation.setAddress(RandomStringUtils.randomAlphanumeric(30));
+        billingInformation.setPhone("552" + RandomStringUtils.randomNumeric(7));
+        billingInformation.setBillingType(BillingType.INDIVIDUAL);
 
-        return billingInformationContext;
+        return billingInformation;
     }
 }

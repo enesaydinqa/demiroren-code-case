@@ -1,7 +1,7 @@
 package com.pages;
 
-import com.objects.BillingInformationContext;
-import com.objects.DeliveryContext;
+import com.objects.BillingInformation;
+import com.objects.Delivery;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -36,7 +36,7 @@ public class DeliveryPage extends PageObject
     @FindBy(id = "fancybox-loading")
     public WebElement fancyboxLoading;
 
-    public DeliveryPage enterDeliveryPoint(DeliveryContext context)
+    public DeliveryPage enterDeliveryPoint(Delivery context)
     {
         browser.waitElementVisible(checkoutNavigation);
         browser.click(deliveryTabs.get(1));
@@ -50,7 +50,7 @@ public class DeliveryPage extends PageObject
         return this;
     }
 
-    public DeliveryPage enterAddBillingAddress(BillingInformationContext context)
+    public DeliveryPage enterAddBillingAddress(BillingInformation context)
     {
         browser.scrollToElement(addBillingAddressButton);
         browser.click(addBillingAddressButton);

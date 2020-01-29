@@ -2,7 +2,7 @@ package com.objects;
 
 import com.enums.BillingType;
 
-public class BillingInformationContext
+public class BillingInformation
 {
     private String firstName;
     private String lastName;
