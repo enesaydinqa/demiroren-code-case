@@ -1,6 +1,8 @@
 package com.context;
 
 import org.junit.Assert;
+import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -41,6 +43,8 @@ public class Browser implements Actions
     @Override
     public void click(WebElement element)
     {
+        sleep(1);
+        waitElementVisible(element);
         waitElementToBeClickable(element);
         element.click();
     }
@@ -74,6 +78,7 @@ public class Browser implements Actions
     @Override
     public void sendKeys(WebElement element, CharSequence text)
     {
+        waitElementVisible(element);
         element.sendKeys(text);
     }
 
@@ -257,6 +262,36 @@ public class Browser implements Actions
     public void deleteCookie()
     {
         driver.manage().deleteAllCookies();
+    }
+
+    @Override
+    public void clickByText(String text)
+    {
+        By element = By.xpath("//*[text()='" + text + "']");
+
+        waitElementVisible(driver.findElement(element));
+        waitElementToBeClickable(driver.findElement(element));
+        click(driver.findElement(element));
+    }
+
+    @Override
+    public void scrollToElement(WebElement element)
+    {
+        JavascriptExecutor js = (JavascriptExecutor) driver;
+        js.executeScript("arguments[0].scrollIntoView({behavior: 'smooth', block: 'end', inline: 'nearest'});", element);
+    }
+
+
+    public void sleep(int second)
+    {
+        try
+        {
+            Thread.sleep(1000 * second);
+        }
+        catch (InterruptedException ex)
+        {
+            logger.info("sleep not working !");
+        }
     }
 
 }

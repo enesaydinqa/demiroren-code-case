@@ -8,13 +8,9 @@ import org.openqa.selenium.support.FindBy;
 
 public class ProductDetailPage extends PageObject
 {
-    private WebDriver driver;
-
     public ProductDetailPage(WebDriver driver)
     {
         super(driver);
-
-        this.driver = driver;
     }
 
     @FindBy(id = "product-name")

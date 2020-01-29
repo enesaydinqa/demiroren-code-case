@@ -98,3 +98,130 @@
 2020-01-28 23:48:53 INFO  OrderTests:42 - selected product name : Lenovo IdeaPad S145-15IGM Intel Celeron N4000 4GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 81MX005NTX
 2020-01-28 23:49:46 INFO  OrderTests:48 - opened product name : Lenovo IdeaPad S145-15IGM Intel Celeron N4000 4GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 81MX005NTX
 2020-01-28 23:49:57 INFO  OrderTests:58 - chart product name : Lenovo IdeaPad S145-15IGM Intel Celeron N4000 4GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 81MX005NTX
+2020-01-29 21:30:28 INFO  WebTestFactory:17 - BrowserType -> CHROME
+2020-01-29 21:30:31 INFO  WebExtension:62 - Driver created
+2020-01-29 21:30:39 INFO  Browser:38 - Redirect : https://www.hepsiburada.com/
+2020-01-29 21:30:44 INFO  OrderTests:42 - selected product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 21:31:24 INFO  OrderTests:48 - opened product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 21:31:51 INFO  WebTestFactory:17 - BrowserType -> CHROME
+2020-01-29 21:31:53 INFO  WebExtension:62 - Driver created
+2020-01-29 21:32:02 INFO  Browser:38 - Redirect : https://www.hepsiburada.com/
+2020-01-29 21:32:08 INFO  OrderTests:42 - selected product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 21:33:10 INFO  OrderTests:48 - opened product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 21:33:15 INFO  OrderTests:58 - chart product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 21:36:50 INFO  WebTestFactory:17 - BrowserType -> CHROME
+2020-01-29 21:36:51 INFO  WebExtension:62 - Driver created
+2020-01-29 21:37:01 INFO  Browser:38 - Redirect : https://www.hepsiburada.com/
+2020-01-29 21:37:10 INFO  OrderTests:42 - selected product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 21:37:14 INFO  OrderTests:48 - opened product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 21:37:20 INFO  OrderTests:58 - chart product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:13:27 INFO  WebTestFactory:17 - BrowserType -> CHROME
+2020-01-29 22:13:29 INFO  WebExtension:62 - Driver created
+2020-01-29 22:13:34 INFO  Browser:39 - Redirect : https://www.hepsiburada.com/
+2020-01-29 22:13:39 INFO  OrderTests:46 - selected product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:13:43 INFO  OrderTests:51 - opened product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:13:48 INFO  OrderTests:60 - chart product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:14:16 INFO  WebTestFactory:17 - BrowserType -> CHROME
+2020-01-29 22:14:18 INFO  WebExtension:62 - Driver created
+2020-01-29 22:14:41 INFO  Browser:39 - Redirect : https://www.hepsiburada.com/
+2020-01-29 22:14:59 INFO  OrderTests:46 - selected product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:15:08 INFO  OrderTests:51 - opened product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:15:14 INFO  OrderTests:60 - chart product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:17:36 INFO  WebTestFactory:17 - BrowserType -> CHROME
+2020-01-29 22:17:38 INFO  WebExtension:62 - Driver created
+2020-01-29 22:17:44 INFO  Browser:39 - Redirect : https://www.hepsiburada.com/
+2020-01-29 22:18:06 INFO  OrderTests:46 - selected product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:18:31 INFO  WebTestFactory:17 - BrowserType -> CHROME
+2020-01-29 22:18:33 INFO  WebExtension:62 - Driver created
+2020-01-29 22:18:39 INFO  Browser:39 - Redirect : https://www.hepsiburada.com/
+2020-01-29 22:18:45 INFO  OrderTests:46 - selected product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:19:00 INFO  OrderTests:51 - opened product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:19:10 INFO  OrderTests:60 - chart product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:21:39 INFO  WebTestFactory:17 - BrowserType -> CHROME
+2020-01-29 22:21:41 INFO  WebExtension:62 - Driver created
+2020-01-29 22:21:46 INFO  Browser:39 - Redirect : https://www.hepsiburada.com/
+2020-01-29 22:21:54 INFO  OrderTests:46 - selected product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:22:33 INFO  OrderTests:51 - opened product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:22:40 INFO  OrderTests:60 - chart product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:23:33 INFO  WebTestFactory:17 - BrowserType -> CHROME
+2020-01-29 22:23:36 INFO  WebExtension:62 - Driver created
+2020-01-29 22:23:59 INFO  Browser:39 - Redirect : https://www.hepsiburada.com/
+2020-01-29 22:24:21 INFO  OrderTests:46 - selected product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:25:02 INFO  OrderTests:51 - opened product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:25:07 INFO  OrderTests:60 - chart product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:27:56 INFO  WebTestFactory:17 - BrowserType -> CHROME
+2020-01-29 22:27:58 INFO  WebExtension:62 - Driver created
+2020-01-29 22:28:02 INFO  Browser:39 - Redirect : https://www.hepsiburada.com/
+2020-01-29 22:28:08 INFO  OrderTests:46 - selected product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:28:49 INFO  OrderTests:51 - opened product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:28:54 INFO  OrderTests:60 - chart product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:31:32 INFO  WebTestFactory:17 - BrowserType -> CHROME
+2020-01-29 22:31:35 INFO  WebExtension:62 - Driver created
+2020-01-29 22:31:40 INFO  Browser:39 - Redirect : https://www.hepsiburada.com/
+2020-01-29 22:31:44 INFO  OrderTests:46 - selected product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:33:36 INFO  OrderTests:51 - opened product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:33:43 INFO  OrderTests:60 - chart product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:34:09 INFO  WebTestFactory:17 - BrowserType -> CHROME
+2020-01-29 22:34:11 INFO  WebExtension:62 - Driver created
+2020-01-29 22:34:21 INFO  Browser:39 - Redirect : https://www.hepsiburada.com/
+2020-01-29 22:34:26 INFO  OrderTests:46 - selected product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:34:30 INFO  OrderTests:51 - opened product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:34:35 INFO  OrderTests:60 - chart product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:35:28 INFO  WebTestFactory:17 - BrowserType -> CHROME
+2020-01-29 22:35:30 INFO  WebExtension:62 - Driver created
+2020-01-29 22:35:35 INFO  Browser:39 - Redirect : https://www.hepsiburada.com/
+2020-01-29 22:35:40 INFO  OrderTests:46 - selected product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:35:45 INFO  OrderTests:51 - opened product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:35:49 INFO  OrderTests:60 - chart product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:37:12 INFO  WebTestFactory:17 - BrowserType -> CHROME
+2020-01-29 22:37:14 INFO  WebExtension:62 - Driver created
+2020-01-29 22:37:18 INFO  Browser:39 - Redirect : https://www.hepsiburada.com/
+2020-01-29 22:37:39 INFO  OrderTests:46 - selected product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:37:54 INFO  WebTestFactory:17 - BrowserType -> CHROME
+2020-01-29 22:37:56 INFO  WebExtension:62 - Driver created
+2020-01-29 22:38:02 INFO  Browser:39 - Redirect : https://www.hepsiburada.com/
+2020-01-29 22:38:08 INFO  OrderTests:46 - selected product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:38:11 INFO  OrderTests:51 - opened product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:38:16 INFO  OrderTests:60 - chart product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:38:54 INFO  WebTestFactory:17 - BrowserType -> CHROME
+2020-01-29 22:38:56 INFO  WebExtension:62 - Driver created
+2020-01-29 22:39:04 INFO  Browser:39 - Redirect : https://www.hepsiburada.com/
+2020-01-29 22:39:24 INFO  OrderTests:46 - selected product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:40:42 INFO  OrderTests:51 - opened product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:40:47 INFO  OrderTests:60 - chart product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:43:00 INFO  WebTestFactory:17 - BrowserType -> CHROME
+2020-01-29 22:43:02 INFO  WebExtension:62 - Driver created
+2020-01-29 22:43:07 INFO  Browser:39 - Redirect : https://www.hepsiburada.com/
+2020-01-29 22:43:13 INFO  OrderTests:46 - selected product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:43:54 INFO  OrderTests:51 - opened product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:44:46 INFO  WebTestFactory:17 - BrowserType -> CHROME
+2020-01-29 22:44:48 INFO  WebExtension:62 - Driver created
+2020-01-29 22:44:53 INFO  Browser:39 - Redirect : https://www.hepsiburada.com/
+2020-01-29 22:45:14 INFO  OrderTests:46 - selected product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:45:54 INFO  WebTestFactory:17 - BrowserType -> CHROME
+2020-01-29 22:45:56 INFO  WebExtension:62 - Driver created
+2020-01-29 22:46:01 INFO  Browser:39 - Redirect : https://www.hepsiburada.com/
+2020-01-29 22:46:07 INFO  OrderTests:46 - selected product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:46:55 INFO  OrderTests:51 - opened product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:47:00 INFO  OrderTests:60 - chart product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:48:18 INFO  WebTestFactory:17 - BrowserType -> CHROME
+2020-01-29 22:48:20 INFO  WebExtension:62 - Driver created
+2020-01-29 22:48:25 INFO  Browser:39 - Redirect : https://www.hepsiburada.com/
+2020-01-29 22:48:31 INFO  OrderTests:46 - selected product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:50:06 INFO  OrderTests:51 - opened product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:50:13 INFO  OrderTests:60 - chart product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:53:14 INFO  WebTestFactory:17 - BrowserType -> CHROME
+2020-01-29 22:53:16 INFO  WebExtension:62 - Driver created
+2020-01-29 22:53:21 INFO  Browser:39 - Redirect : https://www.hepsiburada.com/
+2020-01-29 22:53:27 INFO  OrderTests:46 - selected product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:55:09 INFO  OrderTests:51 - opened product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:55:16 INFO  OrderTests:60 - chart product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:56:51 INFO  WebTestFactory:17 - BrowserType -> CHROME
+2020-01-29 22:56:53 INFO  WebExtension:62 - Driver created
+2020-01-29 22:56:57 INFO  Browser:39 - Redirect : https://www.hepsiburada.com/
+2020-01-29 22:57:11 INFO  WebTestFactory:17 - BrowserType -> CHROME
+2020-01-29 22:57:13 INFO  WebExtension:62 - Driver created
+2020-01-29 22:57:18 INFO  Browser:39 - Redirect : https://www.hepsiburada.com/
+2020-01-29 22:57:24 INFO  OrderTests:46 - selected product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:57:29 INFO  OrderTests:51 - opened product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-29 22:57:35 INFO  OrderTests:60 - chart product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA

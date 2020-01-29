@@ -6,13 +6,9 @@ import org.openqa.selenium.support.FindBy;
 
 public class HeaderPage extends PageObject
 {
-    private WebDriver driver;
-
     public HeaderPage(WebDriver driver)
     {
         super(driver);
-
-        this.driver = driver;
     }
 
     @FindBy(id = "shoppingCart")

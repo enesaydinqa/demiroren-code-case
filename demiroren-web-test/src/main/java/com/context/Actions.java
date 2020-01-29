@@ -8,7 +8,7 @@ public interface Actions
 
     void navigateToURL(UrlFactory url);
 
-    void click(WebElement element);
+    void click(WebElement element) throws InterruptedException;
 
     void mouseOver(WebElement element);
 
@@ -67,5 +67,9 @@ public interface Actions
     String getWindowHandle();
 
     void deleteCookie();
+
+    void scrollToElement(WebElement element);
+
+    void clickByText(String text);
 
 }

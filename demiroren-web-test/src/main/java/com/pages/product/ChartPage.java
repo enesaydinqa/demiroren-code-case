@@ -7,13 +7,9 @@ import org.openqa.selenium.support.FindBy;
 
 public class ChartPage extends PageObject
 {
-    private WebDriver driver;
-
     public ChartPage(WebDriver driver)
     {
         super(driver);
-
-        this.driver = driver;
     }
 
     @FindBy(css = ".product-name a")

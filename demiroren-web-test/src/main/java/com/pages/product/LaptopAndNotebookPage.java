@@ -9,13 +9,9 @@ import java.util.List;
 
 public class LaptopAndNotebookPage extends PageObject
 {
-    private WebDriver driver;
-
     public LaptopAndNotebookPage(WebDriver driver)
     {
         super(driver);
-
-        this.driver = driver;
     }
 
     @FindBy(css = ".SearchListing .product-title span")
