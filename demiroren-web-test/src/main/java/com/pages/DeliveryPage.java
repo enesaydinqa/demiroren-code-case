@@ -36,21 +36,21 @@ public class DeliveryPage extends PageObject
     @FindBy(id = "fancybox-loading")
     public WebElement fancyboxLoading;
 
-    public DeliveryPage enterDeliveryPoint(Delivery context)
+    public DeliveryPage enterDeliveryPoint(Delivery delivery)
     {
         browser.waitElementVisible(checkoutNavigation);
         browser.click(deliveryTabs.get(1));
         browser.sleep(3);
-        browser.clickByText(context.getDeliveryPoint());
+        browser.clickByText(delivery.getDeliveryPoint());
         browser.sleep(1);
-        browser.sendKeys(firstNameInput, context.getFirstName());
-        browser.sendKeys(lastNameInput, context.getLastName());
-        browser.sendKeys(phoneInput, String.valueOf(context.getPhone()));
+        browser.sendKeys(firstNameInput, delivery.getFirstName());
+        browser.sendKeys(lastNameInput, delivery.getLastName());
+        browser.sendKeys(phoneInput, String.valueOf(delivery.getPhone()));
 
         return this;
     }
 
-    public DeliveryPage enterAddBillingAddress(BillingInformation context)
+    public DeliveryPage enterAddBillingAddress(BillingInformation information)
     {
         browser.scrollToElement(addBillingAddressButton);
         browser.click(addBillingAddressButton);
