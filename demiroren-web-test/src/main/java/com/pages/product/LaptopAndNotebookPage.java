@@ -17,10 +17,17 @@ public class LaptopAndNotebookPage extends PageObject
     @FindBy(css = ".SearchListing .product-title span")
     public List<WebElement> products;
 
+    @FindBy(css = ".SearchListing .price-value")
+    public List<WebElement> productPrices;
 
     public String getProductName(int index)
     {
         return browser.getText(products.get(index));
+    }
+
+    public String getProductPrice(int index)
+    {
+        return browser.getText(productPrices.get(index));
     }
 
     public void selectProduct(int index)

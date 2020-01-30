@@ -14,7 +14,7 @@
     <bytecodeTargetLevel>
       <module name="demiroren-api-test" target="1.5" />
       <module name="demiroren-core" target="8" />
-      <module name="demiroren-web-test" target="6" />
+      <module name="demiroren-web-test" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

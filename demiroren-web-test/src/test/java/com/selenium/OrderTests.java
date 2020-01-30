@@ -3,7 +3,9 @@ package com.selenium;
 import com.context.AbstractSeleniumTest;
 import com.context.Constants;
 import com.context.UrlFactory;
+import com.enums.AccordionType;
 import com.enums.BillingType;
+import com.enums.OrderSteps;
 import com.junit.annotations.WebTest;
 import com.objects.BillingInformation;
 import com.objects.Delivery;
@@ -39,13 +41,14 @@ public class OrderTests extends AbstractSeleniumTest
     }
 
     @WebTest
-    public void testOrderCompletion()
+    public void testOrderCompletion() throws Exception
     {
         browser.navigateToURL(UrlFactory.MAIN_URL);
         homePage.selectLaptopMenuOption();
 
         String selectProductName = laptopAndNotebookPage.getProductName(5);
-        logger.info("selected product name : {}", selectProductName);
+        String selectProductPrice = laptopAndNotebookPage.getProductPrice(5);
+        logger.info("selected product name : {} , price : {}", selectProductName, selectProductPrice);
 
         laptopAndNotebookPage.selectProduct(5);
 
@@ -70,7 +73,15 @@ public class OrderTests extends AbstractSeleniumTest
         loginPage
                 .continueWithoutMembership(email)
                 .enterDeliveryPoint(createDeliveryContext())
-                .enterAddBillingAddress(createBillingContext());
+                .enterAddBillingAddress(createBillingContext())
+                .orderContinueButtonClick()
+                .assertDeliveryPointAndContinueButtonClick(Constants.DeliveryPoints.ISTANBUL_KANYON_EASY_POINT)
+                .selectAccordion(AccordionType.REMIT)
+                .continueButtonClick()
+                .selectIBANEFTOption()
+                .assertCurrentPage(OrderSteps.ORDER_SUMMARY)
+                .assertProductName(openedProductName)
+                .assertProductPrice(selectProductPrice);
     }
 
     private Delivery createDeliveryContext()
@@ -91,7 +102,10 @@ public class OrderTests extends AbstractSeleniumTest
         billingInformation.setLastName(RandomStringUtils.randomAlphabetic(4));
         billingInformation.setCountry("Türkiye");
         billingInformation.setCity("İstanbul");
+        billingInformation.setTown("ADALAR");
+        billingInformation.setDistrict("ATATÜRK MAHALLESİ");
         billingInformation.setAddress(RandomStringUtils.randomAlphanumeric(30));
+        billingInformation.setAddressName(RandomStringUtils.randomAlphabetic(5));
         billingInformation.setPhone("552" + RandomStringUtils.randomNumeric(7));
         billingInformation.setBillingType(BillingType.INDIVIDUAL);
 
