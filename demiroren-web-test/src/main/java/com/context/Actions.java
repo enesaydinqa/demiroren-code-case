@@ -4,8 +4,6 @@ import org.openqa.selenium.WebElement;
 
 public interface Actions
 {
-    String getCurrentURL();
-
     void navigateToURL(UrlFactory url);
 
     void click(WebElement element) throws InterruptedException;
@@ -27,5 +25,4 @@ public interface Actions
     void clickByText(String text);
 
     void waitForPageLoad();
-
 }

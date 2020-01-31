@@ -23,12 +23,6 @@ public class Browser implements Actions
     }
 
     @Override
-    public String getCurrentURL()
-    {
-        return driver.getCurrentUrl();
-    }
-
-    @Override
     public void navigateToURL(UrlFactory url)
     {
         driver.manage().timeouts().pageLoadTimeout(15, TimeUnit.MINUTES);
