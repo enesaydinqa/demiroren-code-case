@@ -13,5 +13,4 @@ public abstract class AbstractSeleniumTest extends DriverManager
     {
         browser = new Browser(driver);
     }
-
 }

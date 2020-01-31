@@ -18,6 +18,7 @@ import com.pages.product.ChartPage;
 import com.pages.product.LaptopAndNotebookPage;
 import com.pages.product.ProductDetailPage;
 import org.apache.commons.lang3.RandomStringUtils;
+import org.jetbrains.annotations.NotNull;
 import org.junit.Assert;
 import org.junit.jupiter.api.BeforeEach;
 import org.slf4j.Logger;
@@ -97,6 +98,7 @@ public class OrderTests extends AbstractSeleniumTest
                 .assertProductPrice(selectProductPrice);
     }
 
+    @NotNull
     private Delivery createDeliveryContext()
     {
         Delivery delivery = new Delivery();
@@ -108,6 +110,7 @@ public class OrderTests extends AbstractSeleniumTest
         return delivery;
     }
 
+    @NotNull
     private BillingInformation createBillingContext()
     {
         BillingInformation billingInformation = new BillingInformation();
