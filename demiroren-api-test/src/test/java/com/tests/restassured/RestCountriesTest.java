@@ -1,4 +1,4 @@
-package restassured;
+package com.tests.restassured;
 
 import com.configuration.AppConfig;
 import com.fasterxml.jackson.databind.ObjectMapper;
