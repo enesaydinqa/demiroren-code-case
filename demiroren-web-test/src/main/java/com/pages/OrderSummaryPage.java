@@ -1,6 +1,7 @@
 package com.pages;
 
 import com.enums.OrderSteps;
+import org.jetbrains.annotations.NotNull;
 import org.junit.Assert;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -26,7 +27,7 @@ public class OrderSummaryPage extends PaymentPage
     @FindBy(css = "#item-prices .list-item:nth-child(1) strong")
     private WebElement totalPriceText;
 
-    public OrderSummaryPage assertCurrentPage(OrderSteps orderSteps)
+    public OrderSummaryPage assertCurrentPage(@NotNull OrderSteps orderSteps)
     {
         browser.waitForPageLoad();
         browser.sleep(3);
