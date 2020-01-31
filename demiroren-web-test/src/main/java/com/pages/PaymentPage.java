@@ -15,19 +15,19 @@ public class PaymentPage extends PageObject
     }
 
     @FindBy(css = ".accordions > div span")
-    public List<WebElement> accordionTypes;
+    private List<WebElement> accordionTypes;
 
     @FindBy(css = ".money-order-banks > li")
-    public List<WebElement> orderBanks;
+    private List<WebElement> orderBanks;
 
     @FindBy(css = "#short-summary button")
-    public WebElement continueButton;
+    private WebElement continueButton;
 
     @FindBy(css = ".iban-eft span:nth-child(2)")
-    public WebElement ibanEFTOption;
+    private WebElement ibanEFTOption;
 
     @FindBy(xpath = "//button[text()='Devam Et']")
-    public WebElement eftInfoContinueButton;
+    private WebElement eftInfoContinueButton;
 
     public PaymentPage selectAccordion(AccordionType accordionType)
     {

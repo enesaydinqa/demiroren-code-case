@@ -18,13 +18,13 @@ public class OrderSummaryPage extends PaymentPage
     }
 
     @FindBy(css = "li.current span.nav-name")
-    public WebElement currentNavSummary;
+    private WebElement currentNavSummary;
 
     @FindBy(css = ".col-product-name")
-    public WebElement productNameText;
+    private WebElement productNameText;
 
     @FindBy(css = "#item-prices .list-item:nth-child(1) strong")
-    public WebElement totalPriceText;
+    private WebElement totalPriceText;
 
     public OrderSummaryPage assertCurrentPage(OrderSteps orderSteps)
     {

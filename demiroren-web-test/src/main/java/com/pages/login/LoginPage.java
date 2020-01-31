@@ -16,16 +16,16 @@ public class LoginPage extends PageObject
     }
 
     @FindBy(className = "box-header-title")
-    public WebElement memberLoginTitle;
+    private WebElement memberLoginTitle;
 
     @FindBy(css = ".login-selections div label")
-    public List<WebElement> loginSelections;
+    private List<WebElement> loginSelections;
 
     @FindBy(id = "lazy-email")
-    public WebElement emailInput;
+    private WebElement emailInput;
 
     @FindBy(css = "#form-lazy-login .btn-login-submit")
-    public WebElement loginSubmitButton;
+    private WebElement loginSubmitButton;
 
     public DeliveryPage continueWithoutMembership(String email)
     {

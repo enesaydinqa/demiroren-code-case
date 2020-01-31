@@ -18,79 +18,79 @@ public class DeliveryPage extends PageObject
     }
 
     @FindBy(id = "checkout-navigation")
-    public WebElement checkoutNavigation;
+    private WebElement checkoutNavigation;
 
     @FindBy(css = ".delivery-tabs li")
-    public List<WebElement> deliveryTabs;
+    private List<WebElement> deliveryTabs;
 
     @FindBy(id = "ep-first-name")
-    public WebElement firstNameInput;
+    private WebElement firstNameInput;
 
     @FindBy(id = "ep-last-name")
-    public WebElement lastNameInput;
+    private WebElement lastNameInput;
 
     @FindBy(id = "easy-point-phone")
-    public WebElement phoneInput;
+    private WebElement phoneInput;
 
     @FindBy(css = "#easy-point .btn-add-new")
-    public WebElement addBillingAddressButton;
+    private WebElement addBillingAddressButton;
 
     @FindBy(id = "first-name")
-    public WebElement billingFirstNameInput;
+    private WebElement billingFirstNameInput;
 
     @FindBy(id = "last-name")
-    public WebElement billingLastNameInput;
+    private WebElement billingLastNameInput;
 
     @FindBy(css = ".address-form #city + div button")
-    public WebElement billingCitySelect;
+    private WebElement billingCitySelect;
 
     @FindBy(css = ".address-form #town + div button")
-    public WebElement billingTownSelect;
+    private WebElement billingTownSelect;
 
     @FindBy(css = ".address-form #district + div button")
-    public WebElement billingDistrictSelect;
+    private WebElement billingDistrictSelect;
 
     @FindBy(css = ".address-form #city + div .input")
-    public WebElement billingCitySearchInput;
+    private WebElement billingCitySearchInput;
 
     @FindBy(css = ".address-form #town + div .input")
-    public WebElement billingTownSearchInput;
+    private WebElement billingTownSearchInput;
 
     @FindBy(css = ".address-form #district + div .input")
-    public WebElement billingDistrictSearchInput;
+    private WebElement billingDistrictSearchInput;
 
     @FindBy(css = ".address-form #city + div li:nth-child(2)")
-    public List<WebElement> billingCitySearchResultItems;
+    private List<WebElement> billingCitySearchResultItems;
 
     @FindBy(css = ".address-form #town + div li:nth-child(2)")
-    public List<WebElement> billingTownSearchResultItems;
+    private List<WebElement> billingTownSearchResultItems;
 
     @FindBy(css = ".address-form #district + div li:nth-child(2)")
-    public List<WebElement> billingDistrictSearchResultItems;
+    private List<WebElement> billingDistrictSearchResultItems;
 
     @FindBy(id = "address")
-    public WebElement billingAddressTextArea;
+    private WebElement billingAddressTextArea;
 
     @FindBy(css = ".address-form #address-name")
-    public WebElement billingAddressNameInput;
+    private WebElement billingAddressNameInput;
 
     @FindBy(css = ".address-form #phone")
-    public WebElement billingPhoneInput;
+    private WebElement billingPhoneInput;
 
     @FindBy(css = ".billing-type label")
-    public List<WebElement> billingTypeCheckboxes;
+    private List<WebElement> billingTypeCheckboxes;
 
     @FindBy(css = ".address-form .btn-primary")
-    public WebElement addressSaveButton;
+    private WebElement addressSaveButton;
 
     @FindBy(css = "#short-summary button")
-    public WebElement orderContinueButton;
+    private WebElement orderContinueButton;
 
     @FindBy(css = ".easy-point-proceed-info p")
-    public WebElement easyPointProceedInfoPopupText;
+    private WebElement easyPointProceedInfoPopupText;
 
     @FindBy(css = ".easy-point-proceed-info button")
-    public WebElement easyPointProceedInfoPopupContinueButton;
+    private WebElement easyPointProceedInfoPopupContinueButton;
 
     public DeliveryPage enterDeliveryPoint(Delivery delivery)
     {

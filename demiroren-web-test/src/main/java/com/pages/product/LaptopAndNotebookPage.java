@@ -15,10 +15,10 @@ public class LaptopAndNotebookPage extends PageObject
     }
 
     @FindBy(css = ".SearchListing .product-title span")
-    public List<WebElement> products;
+    private List<WebElement> products;
 
     @FindBy(css = ".SearchListing .price-value")
-    public List<WebElement> productPrices;
+    private List<WebElement> productPrices;
 
     public String getProductName(int index)
     {

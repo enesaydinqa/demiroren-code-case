@@ -19,7 +19,6 @@ public class ProductDetailPage extends PageObject
     @FindBy(id = "addToCart")
     private WebElement addToCartButton;
 
-
     public String getProductName()
     {
         return browser.getText(productName);
