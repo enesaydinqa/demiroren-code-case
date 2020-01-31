@@ -396,3 +396,207 @@
 2020-01-31 00:16:36 INFO  OrderTests:51 - selected product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA , price : 2.389,00 TL
 2020-01-31 00:17:29 INFO  OrderTests:56 - opened product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
 2020-01-31 00:17:36 INFO  OrderTests:65 - chart product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-31 21:09:44 INFO  WebTestFactory:17 - BrowserType -> CHROME
+2020-01-31 21:09:46 INFO  WebExtension:62 - Driver created
+2020-01-31 21:09:54 INFO  Browser:40 - Redirect : https://www.hepsiburada.com/
+2020-01-31 21:10:02 INFO  OrderTests:57 - selected product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA , price : 2.389,00 TL
+2020-01-31 21:10:36 INFO  OrderTests:62 - opened product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-31 21:10:43 INFO  OrderTests:71 - chart product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-31 21:11:10 INFO  WebTestFactory:17 - BrowserType -> CHROME
+2020-01-31 21:11:12 INFO  WebExtension:62 - Driver created
+2020-01-31 21:11:23 INFO  Browser:40 - Redirect : https://www.hepsiburada.com/
+2020-01-31 21:11:30 INFO  OrderTests:57 - selected product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA , price : 2.389,00 TL
+2020-01-31 21:12:34 INFO  OrderTests:62 - opened product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-31 21:12:41 INFO  OrderTests:71 - chart product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-31 21:14:04 INFO  WebTestFactory:17 - BrowserType -> CHROME
+2020-01-31 21:14:05 INFO  WebExtension:62 - Driver created
+2020-01-31 21:14:15 INFO  Browser:40 - Redirect : https://www.hepsiburada.com/
+2020-01-31 21:14:21 INFO  OrderTests:57 - selected product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA , price : 2.389,00 TL
+2020-01-31 21:15:46 INFO  OrderTests:62 - opened product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-31 21:15:53 INFO  OrderTests:71 - chart product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-31 21:17:04 INFO  WebTestFactory:17 - BrowserType -> CHROME
+2020-01-31 21:17:06 INFO  WebExtension:62 - Driver created
+2020-01-31 21:17:11 INFO  Browser:40 - Redirect : https://www.hepsiburada.com/
+2020-01-31 21:17:18 INFO  OrderTests:57 - selected product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA , price : 2.389,00 TL
+2020-01-31 21:17:53 INFO  OrderTests:62 - opened product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-31 21:17:59 INFO  OrderTests:71 - chart product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-31 21:24:50 INFO  WebTestFactory:17 - BrowserType -> CHROME
+2020-01-31 21:24:52 INFO  WebExtension:62 - Driver created
+2020-01-31 21:24:57 INFO  Browser:41 - Redirect : https://www.hepsiburada.com/
+2020-01-31 21:25:03 INFO  OrderTests:57 - selected product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA , price : 2.389,00 TL
+2020-01-31 21:25:45 INFO  OrderTests:62 - opened product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-31 21:25:53 INFO  OrderTests:71 - chart product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-31 21:28:07 INFO  WebTestFactory:17 - BrowserType -> CHROME
+2020-01-31 21:28:08 INFO  WebExtension:62 - Driver created
+2020-01-31 21:28:15 INFO  Browser:41 - Redirect : https://www.hepsiburada.com/
+2020-01-31 21:28:54 INFO  WebTestFactory:17 - BrowserType -> CHROME
+2020-01-31 21:28:56 INFO  WebExtension:62 - Driver created
+2020-01-31 21:29:03 INFO  Browser:41 - Redirect : https://www.hepsiburada.com/
+2020-01-31 21:29:09 INFO  OrderTests:57 - selected product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA , price : 2.389,00
+2020-01-31 21:30:03 INFO  OrderTests:62 - opened product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-31 21:30:10 INFO  OrderTests:71 - chart product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-31 21:31:39 INFO  WebTestFactory:17 - BrowserType -> CHROME
+2020-01-31 21:31:40 INFO  WebExtension:62 - Driver created
+2020-01-31 21:34:29 INFO  WebTestFactory:17 - BrowserType -> CHROME
+2020-01-31 21:34:31 INFO  WebExtension:62 - Driver created
+2020-01-31 21:34:38 INFO  Browser:41 - Redirect : https://www.hepsiburada.com/
+2020-01-31 21:34:44 INFO  Browser:51 - click element : Proxy element for: DefaultElementLocator 'By.cssSelector: [data-title='Dizüstü Bilgisayar']'
+2020-01-31 21:34:45 INFO  OrderTests:57 - selected product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA , price : 2.389,00
+2020-01-31 21:35:23 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (a3799d0fdea18894489b2803f3cdbbce)] -> css selector: .SearchListing .product-title span]
+2020-01-31 21:35:23 INFO  OrderTests:62 - opened product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-31 21:35:25 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (a3799d0fdea18894489b2803f3cdbbce)] -> id: addToCart]
+2020-01-31 21:35:30 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (a3799d0fdea18894489b2803f3cdbbce)] -> id: shoppingCart]
+2020-01-31 21:35:31 INFO  OrderTests:71 - chart product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-31 21:35:32 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (a3799d0fdea18894489b2803f3cdbbce)] -> xpath: //span[text()='Alışverişi Tamamla']]
+2020-01-31 21:35:35 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (a3799d0fdea18894489b2803f3cdbbce)] -> css selector: .login-selections div label]
+2020-01-31 21:35:35 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (a3799d0fdea18894489b2803f3cdbbce)] -> id: lazy-email], value : K9VrbovHRh@gmail.com
+2020-01-31 21:35:36 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (a3799d0fdea18894489b2803f3cdbbce)] -> css selector: #form-lazy-login .btn-login-submit]
+2020-01-31 21:35:41 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (a3799d0fdea18894489b2803f3cdbbce)] -> css selector: .delivery-tabs li]
+2020-01-31 21:35:45 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (a3799d0fdea18894489b2803f3cdbbce)] -> xpath: //*[text()='İstanbul Kanyon - Easy Point']]
+2020-01-31 21:35:46 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (a3799d0fdea18894489b2803f3cdbbce)] -> id: ep-first-name], value : ATayyc
+2020-01-31 21:35:46 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (a3799d0fdea18894489b2803f3cdbbce)] -> id: ep-last-name], value : SdVC
+2020-01-31 21:35:46 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (a3799d0fdea18894489b2803f3cdbbce)] -> id: easy-point-phone], value : 5521289241
+2020-01-31 21:35:47 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (a3799d0fdea18894489b2803f3cdbbce)] -> css selector: #easy-point .btn-add-new]
+2020-01-31 21:35:48 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (a3799d0fdea18894489b2803f3cdbbce)] -> id: first-name], value : GqBkLP
+2020-01-31 21:35:48 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (a3799d0fdea18894489b2803f3cdbbce)] -> id: last-name], value : Iegj
+2020-01-31 21:35:49 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (a3799d0fdea18894489b2803f3cdbbce)] -> css selector: .address-form #city + div button]
+2020-01-31 21:35:50 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (a3799d0fdea18894489b2803f3cdbbce)] -> css selector: .address-form #city + div .input], value : İstanbul
+2020-01-31 21:35:52 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (a3799d0fdea18894489b2803f3cdbbce)] -> css selector: .address-form #town + div button]
+2020-01-31 21:35:52 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (a3799d0fdea18894489b2803f3cdbbce)] -> css selector: .address-form #town + div .input], value : ADALAR
+2020-01-31 21:35:54 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (a3799d0fdea18894489b2803f3cdbbce)] -> css selector: .address-form #district + div button]
+2020-01-31 21:35:55 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (a3799d0fdea18894489b2803f3cdbbce)] -> css selector: .address-form #district + div .input], value : ATATÜRK MAHALLESİ
+2020-01-31 21:35:56 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (a3799d0fdea18894489b2803f3cdbbce)] -> id: address], value : DFG1FITgZO58pJ94NMR5L0d5bsTrBi
+2020-01-31 21:35:56 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (a3799d0fdea18894489b2803f3cdbbce)] -> css selector: .address-form #address-name], value : Tcwet
+2020-01-31 21:35:56 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (a3799d0fdea18894489b2803f3cdbbce)] -> css selector: .address-form #phone], value : 5521950422
+2020-01-31 21:35:57 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (a3799d0fdea18894489b2803f3cdbbce)] -> css selector: .billing-type label]
+2020-01-31 21:35:59 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (a3799d0fdea18894489b2803f3cdbbce)] -> css selector: .address-form .btn-primary]
+2020-01-31 21:36:00 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (a3799d0fdea18894489b2803f3cdbbce)] -> css selector: #short-summary button]
+2020-01-31 21:36:01 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (a3799d0fdea18894489b2803f3cdbbce)] -> css selector: .easy-point-proceed-info button]
+2020-01-31 21:36:07 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (a3799d0fdea18894489b2803f3cdbbce)] -> css selector: .accordions > div span]
+2020-01-31 21:36:11 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (a3799d0fdea18894489b2803f3cdbbce)] -> css selector: .money-order-banks > li]
+2020-01-31 21:36:13 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (a3799d0fdea18894489b2803f3cdbbce)] -> css selector: #short-summary button]
+2020-01-31 21:36:14 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (a3799d0fdea18894489b2803f3cdbbce)] -> css selector: .iban-eft span:nth-child(2)]
+2020-01-31 21:36:15 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (a3799d0fdea18894489b2803f3cdbbce)] -> xpath: //button[text()='Devam Et']]
+2020-01-31 21:39:55 INFO  WebTestFactory:17 - BrowserType -> CHROME
+2020-01-31 21:39:57 INFO  WebExtension:62 - Driver created
+2020-01-31 21:40:03 INFO  Browser:41 - Redirect : https://www.hepsiburada.com/
+2020-01-31 21:40:08 INFO  Browser:51 - click element : Proxy element for: DefaultElementLocator 'By.cssSelector: [data-title='Dizüstü Bilgisayar']'
+2020-01-31 21:40:09 INFO  OrderTests:57 - selected product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA , price : 2.389,00
+2020-01-31 21:41:28 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (8540e15f4776de37afebda54c6ef9770)] -> css selector: .SearchListing .product-title span]
+2020-01-31 21:41:29 INFO  OrderTests:62 - opened product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-31 21:41:30 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (8540e15f4776de37afebda54c6ef9770)] -> id: addToCart]
+2020-01-31 21:41:35 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (8540e15f4776de37afebda54c6ef9770)] -> id: shoppingCart]
+2020-01-31 21:41:36 INFO  OrderTests:71 - chart product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-31 21:41:37 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (8540e15f4776de37afebda54c6ef9770)] -> xpath: //span[text()='Alışverişi Tamamla']]
+2020-01-31 21:41:39 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (8540e15f4776de37afebda54c6ef9770)] -> css selector: .login-selections div label]
+2020-01-31 21:41:39 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (8540e15f4776de37afebda54c6ef9770)] -> id: lazy-email], value : yilvrw6QJS@gmail.com
+2020-01-31 21:41:40 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (8540e15f4776de37afebda54c6ef9770)] -> css selector: #form-lazy-login .btn-login-submit]
+2020-01-31 21:41:45 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (8540e15f4776de37afebda54c6ef9770)] -> css selector: .delivery-tabs li]
+2020-01-31 21:41:49 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (8540e15f4776de37afebda54c6ef9770)] -> xpath: //*[text()='İstanbul Kanyon - Easy Point']]
+2020-01-31 21:41:50 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (8540e15f4776de37afebda54c6ef9770)] -> id: ep-first-name], value : DxdXtc
+2020-01-31 21:41:51 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (8540e15f4776de37afebda54c6ef9770)] -> id: ep-last-name], value : ukDq
+2020-01-31 21:41:51 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (8540e15f4776de37afebda54c6ef9770)] -> id: easy-point-phone], value : 5527436752
+2020-01-31 21:41:52 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (8540e15f4776de37afebda54c6ef9770)] -> css selector: #easy-point .btn-add-new]
+2020-01-31 21:41:53 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (8540e15f4776de37afebda54c6ef9770)] -> id: first-name], value : kZNWSJ
+2020-01-31 21:41:53 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (8540e15f4776de37afebda54c6ef9770)] -> id: last-name], value : vZGs
+2020-01-31 21:41:54 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (8540e15f4776de37afebda54c6ef9770)] -> css selector: .address-form #city + div button]
+2020-01-31 21:41:54 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (8540e15f4776de37afebda54c6ef9770)] -> css selector: .address-form #city + div .input], value : İstanbul
+2020-01-31 21:41:56 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (8540e15f4776de37afebda54c6ef9770)] -> css selector: .address-form #town + div button]
+2020-01-31 21:41:57 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (8540e15f4776de37afebda54c6ef9770)] -> css selector: .address-form #town + div .input], value : ADALAR
+2020-01-31 21:41:59 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (8540e15f4776de37afebda54c6ef9770)] -> css selector: .address-form #district + div button]
+2020-01-31 21:41:59 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (8540e15f4776de37afebda54c6ef9770)] -> css selector: .address-form #district + div .input], value : ATATÜRK MAHALLESİ
+2020-01-31 21:42:01 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (8540e15f4776de37afebda54c6ef9770)] -> id: address], value : Fy7PKYNlZimAGFJEZzOlvDKFg8fwIo
+2020-01-31 21:42:01 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (8540e15f4776de37afebda54c6ef9770)] -> css selector: .address-form #address-name], value : rQxAP
+2020-01-31 21:42:01 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (8540e15f4776de37afebda54c6ef9770)] -> css selector: .address-form #phone], value : 5527558755
+2020-01-31 21:42:02 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (8540e15f4776de37afebda54c6ef9770)] -> css selector: .billing-type label]
+2020-01-31 21:42:08 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (8540e15f4776de37afebda54c6ef9770)] -> css selector: .address-form .btn-primary]
+2020-01-31 21:42:09 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (8540e15f4776de37afebda54c6ef9770)] -> css selector: #short-summary button]
+2020-01-31 21:42:10 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (8540e15f4776de37afebda54c6ef9770)] -> css selector: .easy-point-proceed-info button]
+2020-01-31 21:42:22 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (8540e15f4776de37afebda54c6ef9770)] -> css selector: .accordions > div span]
+2020-01-31 21:42:26 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (8540e15f4776de37afebda54c6ef9770)] -> css selector: .money-order-banks > li]
+2020-01-31 21:42:27 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (8540e15f4776de37afebda54c6ef9770)] -> css selector: #short-summary button]
+2020-01-31 21:42:28 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (8540e15f4776de37afebda54c6ef9770)] -> css selector: .iban-eft span:nth-child(2)]
+2020-01-31 21:42:29 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (8540e15f4776de37afebda54c6ef9770)] -> xpath: //button[text()='Devam Et']]
+2020-01-31 21:44:50 INFO  WebTestFactory:17 - BrowserType -> CHROME
+2020-01-31 21:44:52 INFO  WebExtension:62 - Driver created
+2020-01-31 21:44:57 INFO  Browser:41 - Redirect : https://www.hepsiburada.com/
+2020-01-31 21:45:03 INFO  Browser:51 - click element : Proxy element for: DefaultElementLocator 'By.cssSelector: [data-title='Dizüstü Bilgisayar']'
+2020-01-31 21:45:04 INFO  OrderTests:57 - selected product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA , price : 2.389,00
+2020-01-31 21:45:34 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (e6903894fe747d8cbef63c0c1a751994)] -> css selector: .SearchListing .product-title span]
+2020-01-31 21:45:35 INFO  OrderTests:62 - opened product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-31 21:45:36 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (e6903894fe747d8cbef63c0c1a751994)] -> id: addToCart]
+2020-01-31 21:45:41 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (e6903894fe747d8cbef63c0c1a751994)] -> id: shoppingCart]
+2020-01-31 21:45:41 INFO  OrderTests:71 - chart product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-31 21:45:42 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (e6903894fe747d8cbef63c0c1a751994)] -> xpath: //span[text()='Alışverişi Tamamla']]
+2020-01-31 21:45:45 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (e6903894fe747d8cbef63c0c1a751994)] -> css selector: .login-selections div label]
+2020-01-31 21:45:45 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (e6903894fe747d8cbef63c0c1a751994)] -> id: lazy-email], value : B5ESTBenKc@gmail.com
+2020-01-31 21:45:46 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (e6903894fe747d8cbef63c0c1a751994)] -> css selector: #form-lazy-login .btn-login-submit]
+2020-01-31 21:45:51 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (e6903894fe747d8cbef63c0c1a751994)] -> css selector: .delivery-tabs li]
+2020-01-31 21:45:55 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (e6903894fe747d8cbef63c0c1a751994)] -> xpath: //*[text()='İstanbul Kanyon - Easy Point']]
+2020-01-31 21:45:56 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (e6903894fe747d8cbef63c0c1a751994)] -> id: ep-first-name], value : PEFSKI
+2020-01-31 21:45:56 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (e6903894fe747d8cbef63c0c1a751994)] -> id: ep-last-name], value : pEzD
+2020-01-31 21:45:56 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (e6903894fe747d8cbef63c0c1a751994)] -> id: easy-point-phone], value : 5528024879
+2020-01-31 21:45:58 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (e6903894fe747d8cbef63c0c1a751994)] -> css selector: #easy-point .btn-add-new]
+2020-01-31 21:45:58 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (e6903894fe747d8cbef63c0c1a751994)] -> id: first-name], value : KvtNDY
+2020-01-31 21:45:58 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (e6903894fe747d8cbef63c0c1a751994)] -> id: last-name], value : yyZR
+2020-01-31 21:45:59 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (e6903894fe747d8cbef63c0c1a751994)] -> css selector: .address-form #city + div button]
+2020-01-31 21:46:00 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (e6903894fe747d8cbef63c0c1a751994)] -> css selector: .address-form #city + div .input], value : İstanbul
+2020-01-31 21:46:02 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (e6903894fe747d8cbef63c0c1a751994)] -> css selector: .address-form #town + div button]
+2020-01-31 21:46:02 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (e6903894fe747d8cbef63c0c1a751994)] -> css selector: .address-form #town + div .input], value : ADALAR
+2020-01-31 21:46:04 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (e6903894fe747d8cbef63c0c1a751994)] -> css selector: .address-form #district + div button]
+2020-01-31 21:46:05 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (e6903894fe747d8cbef63c0c1a751994)] -> css selector: .address-form #district + div .input], value : ATATÜRK MAHALLESİ
+2020-01-31 21:46:06 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (e6903894fe747d8cbef63c0c1a751994)] -> id: address], value : DypCRF4tVz041032QmGFRYeLlC079Q
+2020-01-31 21:46:06 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (e6903894fe747d8cbef63c0c1a751994)] -> css selector: .address-form #address-name], value : KMtXg
+2020-01-31 21:46:07 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (e6903894fe747d8cbef63c0c1a751994)] -> css selector: .address-form #phone], value : 5528366425
+2020-01-31 21:46:08 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (e6903894fe747d8cbef63c0c1a751994)] -> css selector: .billing-type label]
+2020-01-31 21:46:09 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (e6903894fe747d8cbef63c0c1a751994)] -> css selector: .address-form .btn-primary]
+2020-01-31 21:46:10 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (e6903894fe747d8cbef63c0c1a751994)] -> css selector: #short-summary button]
+2020-01-31 21:46:11 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (e6903894fe747d8cbef63c0c1a751994)] -> css selector: .easy-point-proceed-info button]
+2020-01-31 21:46:17 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (e6903894fe747d8cbef63c0c1a751994)] -> css selector: .accordions > div span]
+2020-01-31 21:46:21 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (e6903894fe747d8cbef63c0c1a751994)] -> css selector: .money-order-banks > li]
+2020-01-31 21:46:23 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (e6903894fe747d8cbef63c0c1a751994)] -> css selector: #short-summary button]
+2020-01-31 21:46:24 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (e6903894fe747d8cbef63c0c1a751994)] -> css selector: .iban-eft span:nth-child(2)]
+2020-01-31 21:46:25 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (e6903894fe747d8cbef63c0c1a751994)] -> xpath: //button[text()='Devam Et']]
+2020-01-31 21:54:25 INFO  WebTestFactory:17 - BrowserType -> CHROME
+2020-01-31 21:54:27 INFO  WebExtension:62 - Driver created
+2020-01-31 21:54:35 INFO  Browser:41 - Redirect : https://www.hepsiburada.com/
+2020-01-31 21:54:41 INFO  Browser:51 - click element : Proxy element for: DefaultElementLocator 'By.cssSelector: [data-title='Dizüstü Bilgisayar']'
+2020-01-31 21:54:41 INFO  OrderTests:57 - selected product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA , price : 2.389,00
+2020-01-31 21:55:19 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (9d1cef235790286e1ffa8813e931005c)] -> css selector: .SearchListing .product-title span]
+2020-01-31 21:55:19 INFO  OrderTests:62 - opened product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-31 21:55:20 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (9d1cef235790286e1ffa8813e931005c)] -> id: addToCart]
+2020-01-31 21:55:26 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (9d1cef235790286e1ffa8813e931005c)] -> id: shoppingCart]
+2020-01-31 21:55:26 INFO  OrderTests:71 - chart product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-31 21:55:28 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (9d1cef235790286e1ffa8813e931005c)] -> xpath: //span[text()='Alışverişi Tamamla']]
+2020-01-31 21:55:30 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (9d1cef235790286e1ffa8813e931005c)] -> css selector: .login-selections div label]
+2020-01-31 21:55:30 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (9d1cef235790286e1ffa8813e931005c)] -> id: lazy-email], value : dcpt3IWMxz@gmail.com
+2020-01-31 21:55:31 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (9d1cef235790286e1ffa8813e931005c)] -> css selector: #form-lazy-login .btn-login-submit]
+2020-01-31 21:55:36 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (9d1cef235790286e1ffa8813e931005c)] -> css selector: .delivery-tabs li]
+2020-01-31 21:55:40 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (9d1cef235790286e1ffa8813e931005c)] -> xpath: //*[text()='İstanbul Kanyon - Easy Point']]
+2020-01-31 21:55:41 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (9d1cef235790286e1ffa8813e931005c)] -> id: ep-first-name], value : bPLVrS
+2020-01-31 21:55:41 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (9d1cef235790286e1ffa8813e931005c)] -> id: ep-last-name], value : FnfA
+2020-01-31 21:55:42 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (9d1cef235790286e1ffa8813e931005c)] -> id: easy-point-phone], value : 5520877319
+2020-01-31 21:55:43 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (9d1cef235790286e1ffa8813e931005c)] -> css selector: #easy-point .btn-add-new]
+2020-01-31 21:55:43 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (9d1cef235790286e1ffa8813e931005c)] -> id: first-name], value : GWDrFH
+2020-01-31 21:55:43 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (9d1cef235790286e1ffa8813e931005c)] -> id: last-name], value : jCvX
+2020-01-31 21:55:45 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (9d1cef235790286e1ffa8813e931005c)] -> css selector: .address-form #city + div button]
+2020-01-31 21:55:45 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (9d1cef235790286e1ffa8813e931005c)] -> css selector: .address-form #city + div .input], value : İstanbul
+2020-01-31 21:55:47 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (9d1cef235790286e1ffa8813e931005c)] -> css selector: .address-form #town + div button]
+2020-01-31 21:55:47 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (9d1cef235790286e1ffa8813e931005c)] -> css selector: .address-form #town + div .input], value : ADALAR
+2020-01-31 21:55:50 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (9d1cef235790286e1ffa8813e931005c)] -> css selector: .address-form #district + div button]
+2020-01-31 21:55:50 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (9d1cef235790286e1ffa8813e931005c)] -> css selector: .address-form #district + div .input], value : ATATÜRK MAHALLESİ
+2020-01-31 21:55:51 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (9d1cef235790286e1ffa8813e931005c)] -> id: address], value : 88ks0sROJzQxuF7abyehs4uNjUSbdF
+2020-01-31 21:55:51 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (9d1cef235790286e1ffa8813e931005c)] -> css selector: .address-form #address-name], value : FLHRP
+2020-01-31 21:55:52 INFO  Browser:85 - send keys : [[ChromeDriver: chrome on MAC (9d1cef235790286e1ffa8813e931005c)] -> css selector: .address-form #phone], value : 5520388229
+2020-01-31 21:55:53 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (9d1cef235790286e1ffa8813e931005c)] -> css selector: .billing-type label]
+2020-01-31 21:55:54 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (9d1cef235790286e1ffa8813e931005c)] -> css selector: .address-form .btn-primary]
+2020-01-31 21:55:55 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (9d1cef235790286e1ffa8813e931005c)] -> css selector: #short-summary button]
+2020-01-31 21:55:56 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (9d1cef235790286e1ffa8813e931005c)] -> css selector: .easy-point-proceed-info button]
+2020-01-31 21:56:02 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (9d1cef235790286e1ffa8813e931005c)] -> css selector: .accordions > div span]
+2020-01-31 21:56:07 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (9d1cef235790286e1ffa8813e931005c)] -> css selector: .money-order-banks > li]
+2020-01-31 21:56:08 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (9d1cef235790286e1ffa8813e931005c)] -> css selector: #short-summary button]
+2020-01-31 21:56:09 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (9d1cef235790286e1ffa8813e931005c)] -> css selector: .iban-eft span:nth-child(2)]
+2020-01-31 21:56:10 INFO  Browser:51 - click element : [[ChromeDriver: chrome on MAC (9d1cef235790286e1ffa8813e931005c)] -> xpath: //button[text()='Devam Et']]
+2020-01-31 21:56:13 INFO  OrderSummaryPage:35 - current step : Sipariş Özeti
+2020-01-31 21:56:13 INFO  OrderSummaryPage:46 - product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
+2020-01-31 21:56:13 INFO  OrderSummaryPage:56 - product price : 2.389,00

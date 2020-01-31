@@ -53,7 +53,7 @@ public class OrderTests extends AbstractSeleniumTest
         homePage.selectLaptopMenuOption();
 
         String selectProductName = laptopAndNotebookPage.getProductName(5);
-        String selectProductPrice = laptopAndNotebookPage.getProductPrice(5);
+        String selectProductPrice = laptopAndNotebookPage.getProductPrice(5).split(" TL")[0];
         logger.info("selected product name : {} , price : {}", selectProductName, selectProductPrice);
 
         laptopAndNotebookPage.selectProduct(5);

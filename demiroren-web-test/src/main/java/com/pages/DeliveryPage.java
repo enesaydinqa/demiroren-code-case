@@ -95,6 +95,7 @@ public class DeliveryPage extends PageObject
     public DeliveryPage enterDeliveryPoint(Delivery delivery)
     {
         browser.waitElementVisible(checkoutNavigation);
+        browser.sleep(2);
         browser.click(deliveryTabs.get(1));
         browser.sleep(3);
         browser.clickByText(delivery.getDeliveryPoint());

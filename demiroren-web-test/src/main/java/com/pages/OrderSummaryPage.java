@@ -5,40 +5,56 @@ import org.junit.Assert;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 public class OrderSummaryPage extends PaymentPage
 {
+    private static final Logger logger = LoggerFactory.getLogger(OrderSummaryPage.class);
+
     public OrderSummaryPage(WebDriver driver)
     {
         super(driver);
     }
 
-    @FindBy(xpath = "li.current span.nav-name")
+    @FindBy(css = "li.current span.nav-name")
     public WebElement currentNavSummary;
 
-    @FindBy(xpath = ".col-product-name")
+    @FindBy(css = ".col-product-name")
     public WebElement productNameText;
 
-    @FindBy(xpath = "#short-summary .total-price span")
+    @FindBy(css = "#item-prices .list-item:nth-child(1) strong")
     public WebElement totalPriceText;
 
     public OrderSummaryPage assertCurrentPage(OrderSteps orderSteps)
     {
-        Assert.assertEquals("order summary page is wrong !", orderSteps.orderSteps, browser.getText(currentNavSummary));
+        browser.waitForPageLoad();
+        browser.sleep(3);
+
+        String currentStep = browser.getText(currentNavSummary);
+        logger.info("current step : {}", currentStep);
+
+        Assert.assertEquals("order summary page is wrong !", orderSteps.orderSteps, currentStep);
 
         return this;
     }
 
     public OrderSummaryPage assertProductName(String productName)
     {
-        Assert.assertEquals("product name is wrong !", productName, browser.getText(productNameText));
+        String name = browser.getText(productNameText);
+
+        logger.info("product name : {}", name);
+        Assert.assertEquals("product name is wrong !", productName, name);
 
         return this;
     }
 
     public OrderSummaryPage assertProductPrice(String productPrice)
     {
-        Assert.assertEquals("product price is wrong !", productPrice, browser.getText(totalPriceText));
+        String price = browser.getText(totalPriceText);
+
+        logger.info("product price : {}", price);
+        Assert.assertEquals("product price is wrong !", productPrice, price);
 
         return this;
     }

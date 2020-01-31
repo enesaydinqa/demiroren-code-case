@@ -72,4 +72,6 @@ public interface Actions
 
     void clickByText(String text);
 
+    void waitForPageLoad();
+
 }

@@ -37,6 +37,7 @@ public class Browser implements Actions
     {
         driver.manage().timeouts().pageLoadTimeout(15, TimeUnit.MINUTES);
         driver.navigate().to(url.pageUrl);
+        waitForPageLoad();
         logger.info("Redirect : {}", url.pageUrl);
     }
 
@@ -47,6 +48,7 @@ public class Browser implements Actions
         waitElementVisible(element);
         waitElementToBeClickable(element);
         element.click();
+        logger.info("click element : {}", element);
     }
 
     @Override
@@ -80,6 +82,7 @@ public class Browser implements Actions
     {
         waitElementVisible(element);
         element.sendKeys(text);
+        logger.info("send keys : {}, value : {}", element, text);
     }
 
     @Override
@@ -292,6 +295,38 @@ public class Browser implements Actions
         {
             logger.info("sleep not working !");
         }
+    }
+
+    @Override
+    public void waitForPageLoad()
+    {
+        String DOCUMENT_READY_STATE = "return document.readyState";
+        String JQUERY_ACTIVE = "return jQuery.active == 0";
+        String JQUERY_DEFINED = "return typeof jQuery != 'undefined'";
+
+        try
+        {
+            while (true)
+            {
+                boolean readyState = executeScript(Boolean.class, DOCUMENT_READY_STATE).equals("complete");
+                boolean JqueryActive = executeScript(Boolean.class, JQUERY_ACTIVE);
+                boolean JqueryDefined = executeScript(Boolean.class, JQUERY_DEFINED);
+                if (readyState & JqueryActive & JqueryDefined)
+                {
+                    break;
+                }
+            }
+        }
+        catch (Exception ex)
+        {
+        }
+    }
+
+    private <T> T executeScript(Class<T> clazz, String script, Object... args)
+    {
+        JavascriptExecutor javascriptExecutor = (JavascriptExecutor) driver;
+
+        return clazz.cast(javascriptExecutor.executeScript(script, args));
     }
 
 }
