@@ -9,7 +9,10 @@ import com.enums.OrderSteps;
 import com.junit.annotations.WebTest;
 import com.objects.BillingInformation;
 import com.objects.Delivery;
+import com.pages.DeliveryPage;
 import com.pages.HomePage;
+import com.pages.OrderSummaryPage;
+import com.pages.PaymentPage;
 import com.pages.login.LoginPage;
 import com.pages.product.ChartPage;
 import com.pages.product.LaptopAndNotebookPage;
@@ -29,6 +32,9 @@ public class OrderTests extends AbstractSeleniumTest
     private ProductDetailPage productDetailPage;
     private ChartPage chartPage;
     private LoginPage loginPage;
+    private DeliveryPage deliveryPage;
+    private PaymentPage paymentPage;
+    private OrderSummaryPage orderSummaryPage;
 
     @BeforeEach
     public void before()
@@ -70,15 +76,22 @@ public class OrderTests extends AbstractSeleniumTest
 
         String email = RandomStringUtils.randomAlphanumeric(10).concat("@gmail.com");
 
-        loginPage
-                .continueWithoutMembership(email)
+        deliveryPage = loginPage.continueWithoutMembership(email);
+
+        deliveryPage
                 .enterDeliveryPoint(createDeliveryContext())
                 .enterAddBillingAddress(createBillingContext())
-                .orderContinueButtonClick()
-                .assertDeliveryPointAndContinueButtonClick(Constants.DeliveryPoints.ISTANBUL_KANYON_EASY_POINT)
+                .orderContinueButtonClick();
+
+        paymentPage = deliveryPage.assertDeliveryPointAndContinueButtonClick(Constants.DeliveryPoints.ISTANBUL_KANYON_EASY_POINT);
+
+        paymentPage
                 .selectAccordion(AccordionType.REMIT)
-                .continueButtonClick()
-                .selectIBANEFTOption()
+                .continueButtonClick();
+
+        orderSummaryPage = paymentPage.selectIBANEFTOption();
+
+        orderSummaryPage
                 .assertCurrentPage(OrderSteps.ORDER_SUMMARY)
                 .assertProductName(openedProductName)
                 .assertProductPrice(selectProductPrice);

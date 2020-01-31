@@ -29,7 +29,7 @@ public class PaymentPage extends PageObject
     @FindBy(xpath = "//button[text()='Devam Et']")
     public WebElement eftInfoContinueButton;
 
-    public PaymentPage selectAccordion(final AccordionType accordionType)
+    public PaymentPage selectAccordion(AccordionType accordionType)
     {
         browser.sleep(5);
 
