@@ -1,0 +1,16 @@
+/*/.classpath
+/*/.project
+/*/.settings
+/*/logs
+/*/target/
+logs/*
+.idea
+*.iml
+*.class
+*.DS_Store
+MANIFEST.MF
+*/src/main/java/META-INF
+*/nbactions.xml
+*/nb-configuration.xml
+*~
+
