@@ -48,7 +48,7 @@ public class WebExtension extends DriverManager implements BeforeEachCallback, A
         chromeOptions = chromeOptions();
 
         ChromeDriverService chromeDriverService = new ChromeDriverService.Builder()
-                .usingDriverExecutable(new File("/etc/chromedriver"))
+                .usingDriverExecutable(new File(System.getProperty("chrome.driver.path")))
                 .build();
 
         ExecutorService executor = Executors.newSingleThreadExecutor();

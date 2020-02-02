@@ -600,3 +600,5 @@
 2020-01-31 21:56:13 INFO  OrderSummaryPage:35 - current step : Sipariş Özeti
 2020-01-31 21:56:13 INFO  OrderSummaryPage:46 - product name : HP 15-DB1075NT AMD Ryzen 3 3200U 8GB 256GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9CS99EA
 2020-01-31 21:56:13 INFO  OrderSummaryPage:56 - product price : 2.389,00
+2020-02-02 15:10:50 INFO  WebTestFactory:17 - BrowserType -> CHROME
+2020-02-02 15:10:53 INFO  WebExtension:62 - Driver created
